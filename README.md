@@ -1,0 +1,2 @@
+# DGT
+Ejercicio programacion
